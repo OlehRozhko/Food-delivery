@@ -130,17 +130,17 @@ body {
   height: 399px;
 }
 .slide-summer {
-  background-image: url(/img/summer-img.png);
+  background-image: url(/Food-delivery/img/summer-img.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .slide-autumn {
-  background-image: url(/img/autumn-img.png);
+  background-image: url(/Food-delivery/img/autumn-img.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .slide-vitamins {
-  background-image: url(/img/vitamin-img.png);
+  background-image: url(/Food-delivery/img/vitamin-img.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
